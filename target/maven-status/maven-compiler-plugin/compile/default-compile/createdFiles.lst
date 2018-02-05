@@ -1,5 +1,0 @@
-com/fluig/ResourceController.class
-com/fluig/config/JwtConfiguration.class
-com/fluig/config/OAuth2ResourceConfiguration.class
-com/fluig/config/GlobalMethodSecurityConfiguration.class
-com/fluig/OAuth2ResourceServer.class
